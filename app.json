@@ -1,8 +1,8 @@
 {
-  "name":"IBRAHIM-AI-10.10",
-  "description":"bot whatsapp développé par France King",
+  "name":"MARC-MD",
+  "description":"MARC-MD! A Simple Whatsapp Bot Coded By Arslan Chaudary",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
+  "logo":"https://telegra.ph/file/c19c9914108f3bdfba645.jpg",
   "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
   "succes_url":"/",
   "stack":"container",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value":"MARC-MD",
       "required":false
 
     } ,
@@ -74,20 +74,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR IBRAHIM"
+    "value": "Arslan Chaudary"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254710772666"
+    "value": "3111977378"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "1"
   },
   "STARTING_BOT_MESSAGE":
   {
